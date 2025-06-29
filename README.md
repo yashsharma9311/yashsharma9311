@@ -2,7 +2,7 @@
 🌐 I’m currently working on :<br>A MERN Full Stack Development course (Web + Mobile App Development). Passionate about building complete, responsive apps from backend to frontend.<br><br>🤝 I’m looking to collaborate on:<br>Open source projects, real-world web apps, and startups looking for full stack support.<br><br>💬 Ask me about:<br>React, Node.js, REST APIs, full stack workflows, or how to start your first web project.<br>
 
 
-## 🌐 Socials:
+## 🤝 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashsharma9311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sharma-b82858354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashppsharma9311@gmail.com) 
 
 # 💻 Tech Stack:
